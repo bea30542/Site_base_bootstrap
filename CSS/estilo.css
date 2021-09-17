@@ -2,9 +2,18 @@ body{
     background-color: lightskyblue;
 }
 .col{
-    background-color: white;
+    background-color: lightskyblue;
 }
 .container{
     margin-top:20px;
     border-radius: 15px;
+}
+.texto{
+    padding-top: 40px;
+    padding-right: 150x;
+    padding-bottom: 40px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
 }
