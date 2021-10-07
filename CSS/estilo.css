@@ -11,8 +11,8 @@ body{
 }
 .texto{
     margin-top: 50px;
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: 50px;
+    margin-left: 50px;
     border-style: solid;
     border-width: 4px;
     padding: 20px;
@@ -29,4 +29,13 @@ h1{
     width: 300px;
     height: 300px;
     border-radius: 50%;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: rgb(91, 253, 177)
+}
+#botoes{
+    justify-content: center;
 }
