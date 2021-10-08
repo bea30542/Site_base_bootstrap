@@ -40,3 +40,31 @@ a:hover{
     width: auto;
     height: 45%;
 }
+#gatos{
+    margin-left: 40px;
+    margin-top: 20px;
+    width: auto;
+    height: 70%;
+}
+#eu2{
+    margin-top: -40px;
+    width: auto;
+    height: 45%;
+}
+::-webkit-scrollbar {
+    width: 0.7vw;
+}
+
+ ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 1vw #e0e0e0;
+    border-radius: 1vw;
+}
+
+ ::-webkit-scrollbar-thumb {
+    background: black;
+    border-radius: 1vw;
+}
+
+ ::-webkit-scrollbar-thumb:hover {
+    background: black;
+}
